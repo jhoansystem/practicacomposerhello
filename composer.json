@@ -1,0 +1,16 @@
+{
+    "name": "jhoansystem/practicacomposerhello",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "jhoansystem",
+            "email": "jhoansystem@name.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
